@@ -1,6 +1,8 @@
 ## 📘 Full Report: Sales & Delivery Analysis (2014–2017)
 
 Below is the full original report including all findings, visualizations, and recommendations.
+## 📌 Report Online
+https://app.powerbi.com/reportEmbed?reportId=7669b582-df8e-4e2a-afe3-5ee6a5c83e69&autoAuth=true&ctid=7212a37c-41a9-4402-9f69-ac32c6f76e1a
 
 ### 📄 Report Pages
 
