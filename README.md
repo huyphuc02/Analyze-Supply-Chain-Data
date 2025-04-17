@@ -2,7 +2,7 @@
 
 Below is the full original report including all findings, visualizations, and recommendations.
 ## 📌 Report Online
-https://app.powerbi.com/reportEmbed?reportId=7669b582-df8e-4e2a-afe3-5ee6a5c83e69&autoAuth=true&ctid=7212a37c-41a9-4402-9f69-ac32c6f76e1a
+https://app.powerbi.com/reportEmbed?reportId=8c852aa2-51a8-4310-bf69-0a3661a7dcfc&autoAuth=true&ctid=7212a37c-41a9-4402-9f69-ac32c6f76e1a
 
 ### 📄 Report Pages
 
